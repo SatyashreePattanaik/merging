@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+=======
+
+hii ..
+modifying file
+hello demo.
+>>>>>>> b2e38ec (add txt)
